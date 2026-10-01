@@ -1,9 +1,0 @@
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\bin\Release\net10.0\StreamKartoteka.Core.deps.json
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\bin\Release\net10.0\StreamKartoteka.Core.dll
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\StreamKartoteka.Core.GeneratedMSBuildEditorConfig.editorconfig
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\StreamKartoteka.Core.AssemblyInfoInputs.cache
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\StreamKartoteka.Core.AssemblyInfo.cs
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\StreamKartoteka.Core.csproj.CoreCompileInputs.cache
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\StreamKartoteka.Core.dll
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\refint\StreamKartoteka.Core.dll
-E:\Codex workspace\Stream aplikace\StreamKartoteka.Core\obj\Release\net10.0\ref\StreamKartoteka.Core.dll
