@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>ZombieLilčin konsolidátor odpovědí</AssemblyName>
+    <RootNamespace>StreamKartoteka</RootNamespace>
+    <Title>ZombieLilčin konsolidátor odpovědí</Title>
+    <Product>ZombieLilčin konsolidátor odpovědí</Product>
+    <Description>Přehledná fronta zpráv z Twitch chatu seskupená podle diváků.</Description>
+    <ApplicationIcon>Assets\ZombieLilcin.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StreamKartoteka.Core\StreamKartoteka.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\ZombieLilcin.ico" />
+    <None Remove="Assets\ZombieLilcin-icon-source.png" />
+    <Resource Include="Assets\ZombieLilcin-icon-source.png" />
+  </ItemGroup>
+</Project>
